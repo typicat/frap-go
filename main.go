@@ -3,8 +3,8 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
-	"os"
+	"io/ioutil"
+	"log"
 
 	"github.com/gocolly/colly"
 )
@@ -50,8 +50,18 @@ func main() {
 	})
 
 	c.Visit(url)
-	enc := json.NewEncoder(os.Stdout)
+	/* enc := json.NewEncoder(os.Stdout)
 	enc.SetIndent("", " ")
 	enc.Encode(rap)
-	fmt.Println("Done!")
+	fmt.Println("Done!") */
+	writeJSON(rap)
+}
+
+func writeJSON(data []Rapport) {
+	file, err := json.MarshalIndent(data, "", " ")
+	if err != nil {
+		log.Fatalf("unable to create JSON file")
+		return
+	}
+	_ = ioutil.WriteFile("rapporter.json", file, 0644)
 }
