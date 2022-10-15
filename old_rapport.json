@@ -1,0 +1,1378 @@
+[
+ {
+  "Namn": "",
+  "Datum": "",
+  "Art": "",
+  "Langd": "",
+  "Plats": "",
+  "Metod": ""
+ },
+ {
+  "Namn": "Ante H",
+  "Datum": "31/08/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ante H",
+  "Datum": "12/08/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ante H",
+  "Datum": "10/08/2022",
+  "Art": "Öring",
+  "Langd": "70",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "07/08/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Richard Löfmark",
+  "Datum": "04/08/2022",
+  "Art": "Harr",
+  "Langd": "39",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Christer",
+  "Datum": "13/07/2022",
+  "Art": "Harr",
+  "Langd": "40",
+  "Plats": "Storfallets-fvo",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Dick Boström ",
+  "Datum": "06/07/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Storfallets-fvo",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Janne.sundkvist",
+  "Datum": "07/06/2022",
+  "Art": "Öring",
+  "Langd": "75",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Jan Lindberg",
+  "Datum": "05/06/2022",
+  "Art": "Harr",
+  "Langd": "45",
+  "Plats": "Ersmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Isac Andersson",
+  "Datum": "04/06/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ante H",
+  "Datum": "01/06/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "01/06/2022",
+  "Art": "Lax",
+  "Langd": "100",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ante H",
+  "Datum": "30/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Edwin Flodin",
+  "Datum": "31/05/2022",
+  "Art": "Öring",
+  "Langd": "76",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Isac Andersson",
+  "Datum": "30/05/2022",
+  "Art": "Öring",
+  "Langd": "81",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "31/05/2022",
+  "Art": "Öring",
+  "Langd": "73",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "31/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Thomas Johansson ",
+  "Datum": "29/05/2022",
+  "Art": "Öring",
+  "Langd": "64",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "29/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "MATS",
+  "Datum": "29/05/2022",
+  "Art": "Öring",
+  "Langd": "74",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "29/05/2022",
+  "Art": "Öring",
+  "Langd": "53",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kalle Jonsson",
+  "Datum": "29/05/2022",
+  "Art": "Öring",
+  "Langd": "78",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Daniel Sjölund",
+  "Datum": "28/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Svante Jonsson",
+  "Datum": "28/05/2022",
+  "Art": "Öring",
+  "Langd": "62",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Magnus Holmberg ",
+  "Datum": "27/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Daniel Laestander",
+  "Datum": "27/05/2022",
+  "Art": "Öring",
+  "Langd": "80",
+  "Plats": "Ersmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Jirkhem ",
+  "Datum": "27/05/2022",
+  "Art": "Öring",
+  "Langd": "29",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ante H",
+  "Datum": "26/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "27/05/2022",
+  "Art": "Lax",
+  "Langd": "89",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ted L",
+  "Datum": "26/05/2022",
+  "Art": "Öring",
+  "Langd": "66",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Jirkhem ",
+  "Datum": "26/05/2022",
+  "Art": "Öring",
+  "Langd": "46",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Jirkhem ",
+  "Datum": "26/05/2022",
+  "Art": "Öring",
+  "Langd": "62",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Jirkhem ",
+  "Datum": "26/05/2022",
+  "Art": "Öring",
+  "Langd": "72",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rikard Jonsson ",
+  "Datum": "25/05/2022",
+  "Art": "Öring",
+  "Langd": "77",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Christoffer Trautmann ",
+  "Datum": "25/05/2022",
+  "Art": "Öring",
+  "Langd": "75",
+  "Plats": "Ersmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Alexander Westin",
+  "Datum": "25/05/2022",
+  "Art": "Öring",
+  "Langd": "75",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rolf Westin ",
+  "Datum": "25/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Rasmus Heikkinen",
+  "Datum": "25/05/2022",
+  "Art": "Öring",
+  "Langd": "72",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "24/05/2022",
+  "Art": "Öring",
+  "Langd": "52",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Andreas Gauffin",
+  "Datum": "24/05/2022",
+  "Art": "Lax",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Johan Lundholm ",
+  "Datum": "24/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Rikard Jonsson",
+  "Datum": "24/05/2022",
+  "Art": "Öring",
+  "Langd": "67",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Eva Eriksson ",
+  "Datum": "24/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "24/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "23/05/2022",
+  "Art": "Öring",
+  "Langd": "75",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "LarsOve Nyström",
+  "Datum": "23/05/2022",
+  "Art": "Öring",
+  "Langd": "52",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Alexander Westin",
+  "Datum": "23/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Sandra Johansson",
+  "Datum": "23/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Larsa ellonen",
+  "Datum": "23/05/2022",
+  "Art": "Öring",
+  "Langd": "70",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa ",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "67",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Mattias Eriksson ",
+  "Datum": "22/05/2022",
+  "Art": "Lax",
+  "Langd": "83",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Roger Lindgren ",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "48",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Tobbe Lindholm",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rolf Westin ",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Daniel Sjölund",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Daniel Sjölund",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Hedlund ",
+  "Datum": "22/05/2022",
+  "Art": "Öring",
+  "Langd": "51",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Andreas Engström",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa ",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "86",
+  "Plats": "Ersmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "21/05/2022",
+  "Art": "Lax",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "48",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "53",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Elias Hörnquist",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "72",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Elias Hörnquist",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "52",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Peter Juntti",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "70",
+  "Plats": "Ersmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Daniel Laestander",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Fredrik Eriksson",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "54",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Fredrik Eriksson",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Alfred Lindberg ",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Daniel Melin",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "52",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Daniel Melin",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kalle Jonsson",
+  "Datum": "21/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Fredrik Eriksson",
+  "Datum": "19/05/2022",
+  "Art": "Öring",
+  "Langd": "71",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Andreas Gauffin",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "67",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Adam",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "73",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "64",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "19/05/2022",
+  "Art": "Lax",
+  "Langd": "95",
+  "Plats": "Ersmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Stefan Lindgren ",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Peter Hedlund ",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Hedlund ",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Therese Lindberg ",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "80",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Tobbe Lindholm",
+  "Datum": "20/05/2022",
+  "Art": "Öring",
+  "Langd": "75",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "97",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Joakim Wallstén ",
+  "Datum": "19/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Dick Boström",
+  "Datum": "19/05/2022",
+  "Art": "Öring",
+  "Langd": "74",
+  "Plats": "Ersmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Peter Hedlund ",
+  "Datum": "19/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rikard Jonsson ",
+  "Datum": "19/05/2022",
+  "Art": "Öring",
+  "Langd": "70",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rikard Jonsson ",
+  "Datum": "19/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rikard Jonsson",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "82",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Andreas Gauffin",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Larsa Ellonen ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Josef",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "74",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Alexander Westin",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "46",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Larsa Ellonen",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "45",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Mattias Harris",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Larsa Ellonen",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Sandra Johansson",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "48",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Linus Åström",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "45",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Linus",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Linus Åström",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "80",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Dick Boström ",
+  "Datum": "18/05/2022",
+  "Art": "Lax",
+  "Langd": "94",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "DickD Boström",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "57",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Dick Boström",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Dick Boström ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "67",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "92",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Hedlund ",
+  "Datum": "18/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Ola Boström",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "17/05/2022",
+  "Art": "Lax",
+  "Langd": "108",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Markus Enmark ",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Tobbe Lindholm",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "85",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Nils Hedlund ",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "61",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Josef",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "79",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Josef",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rasmus Heikkinen",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "67",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Rasmus Heikkinen",
+  "Datum": "17/05/2022",
+  "Art": "Öring",
+  "Langd": "64",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Andreas Gauffin ",
+  "Datum": "16/05/2022",
+  "Art": "Lax",
+  "Langd": "75",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "53",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "16/05/2022",
+  "Art": "Lax",
+  "Langd": "93",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Ted L",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Nils Hedlund ",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Nils Hedlund ",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "53",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Alexander",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Tobbe Lindholm",
+  "Datum": "16/05/2022",
+  "Art": "Lax",
+  "Langd": "95",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Alexander",
+  "Datum": "16/05/2022",
+  "Art": "Lax",
+  "Langd": "80",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Tobbe Lindholm",
+  "Datum": "16/05/2022",
+  "Art": "Lax",
+  "Langd": "98",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Rasmus Heikkinen",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "54",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström",
+  "Datum": "16/05/2022",
+  "Art": "Lax",
+  "Langd": "65",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Svante Jonsson",
+  "Datum": "16/05/2022",
+  "Art": "Öring",
+  "Langd": "52",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Mikael Lindström ",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "58",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Thomas Johansson ",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "73",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "80",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ted L",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "80",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "46",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ola Boström ",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Johan Hörnemalm",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "57",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Arvid Jonsson ",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Sandfors",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Mikael Lindström ",
+  "Datum": "15/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Oskar Andersson",
+  "Datum": "14/05/2022",
+  "Art": "Öring",
+  "Langd": "66",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Christian Ingvarsson ",
+  "Datum": "14/05/2022",
+  "Art": "Öring",
+  "Langd": "80",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kurt stenlund ",
+  "Datum": "14/05/2022",
+  "Art": "Öring",
+  "Langd": "90",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Tim Lindström",
+  "Datum": "14/05/2022",
+  "Art": "Öring",
+  "Langd": "50",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Pontus Lundgren ",
+  "Datum": "14/05/2022",
+  "Art": "Öring",
+  "Langd": "52",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Olov Forssell",
+  "Datum": "14/05/2022",
+  "Art": "Öring",
+  "Langd": "65",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Juntti",
+  "Datum": "13/05/2022",
+  "Art": "Öring",
+  "Langd": "63",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Juntti ",
+  "Datum": "13/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Kurt stenlund",
+  "Datum": "13/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kusmark",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Thomas Johansson ",
+  "Datum": "13/05/2022",
+  "Art": "Öring",
+  "Langd": "69",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "12/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Dyballa",
+  "Datum": "13/05/2022",
+  "Art": "Lax",
+  "Langd": "95",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Andreas Gauffin",
+  "Datum": "12/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Ted L",
+  "Datum": "12/05/2022",
+  "Art": "Öring",
+  "Langd": "55",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Torbjörn Vestergren ",
+  "Datum": "12/05/2022",
+  "Art": "Öring",
+  "Langd": "56",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Nils Hedlund ",
+  "Datum": "12/05/2022",
+  "Art": "Öring",
+  "Langd": "61",
+  "Plats": "Kåge",
+  "Metod": "Spinn"
+ },
+ {
+  "Namn": "Olov Forssell",
+  "Datum": "12/05/2022",
+  "Art": "Lax",
+  "Langd": "85",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Peter Hedlund ",
+  "Datum": "06/05/2022",
+  "Art": "Öring",
+  "Langd": "60",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Björn Wikström ",
+  "Datum": "06/05/2022",
+  "Art": "Öring",
+  "Langd": "57",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Janne Sundkvist",
+  "Datum": "05/05/2022",
+  "Art": "Öring",
+  "Langd": "62",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Jan",
+  "Datum": "05/05/2022",
+  "Art": "Öring",
+  "Langd": "92",
+  "Plats": "Kåge",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "My Andersson ",
+  "Datum": "01/05/2022",
+  "Art": "Öring",
+  "Langd": "70",
+  "Plats": "Kusmark",
+  "Metod": "Fluga"
+ },
+ {
+  "Namn": "Fredrik Eriksson",
+  "Datum": "29/04/2022",
+  "Art": "Lax",
+  "Langd": "75",
+  "Plats": "Ersmark",
+  "Metod": "Fluga"
+ }
+]

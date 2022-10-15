@@ -1,4 +1,4 @@
-//this is frap written in go
+// this is frap written in go
 package main
 
 import (
@@ -9,7 +9,7 @@ import (
 	"github.com/gocolly/colly"
 )
 
-//Rapport is the datastructure of the information we want to show
+// Rapport is the datastructure of the information we want to show
 type Rapport struct {
 	Namn  string `json:"Namn"`
 	Datum string `json:"Datum"`
@@ -22,9 +22,10 @@ type Rapport struct {
 func main() {
 	url := "https://kagealven.com/fangstrapporter-aktuella/"
 	rap := make([]Rapport, 0)
+	agent := "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
 	c := colly.NewCollector(
 		colly.AllowedDomains("kagealven.com"),
-		colly.UserAgent("Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"),
+		colly.UserAgent(agent),
 	)
 	c.OnHTML("table", func(e *colly.HTMLElement) {
 		nyRapport := Rapport{}
