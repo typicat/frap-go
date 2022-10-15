@@ -22,7 +22,7 @@ type Rapport struct {
 func main() {
 	url := "https://kagealven.com/fangstrapporter-aktuella/"
 	rap := make([]Rapport, 0)
-	agent := "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
+	agent := "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
 	c := colly.NewCollector(
 		colly.AllowedDomains("kagealven.com"),
 		colly.UserAgent(agent),
